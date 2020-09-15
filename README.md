@@ -1,4 +1,4 @@
-### Hi there I am Lydia Ingabire 👋
+### Hi there I am Delice Lydia 👋
 
 I'm a FullStack Web Developer!
 
