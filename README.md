@@ -9,4 +9,4 @@ I'm a FullStack Web Developer!
 - 📫 Reach out: 
 - Twitter: [@IngabireLydia3](https://twitter.com/IngabireLydia)
 - Linkedin: [Delice Lydia](https://www.linkedin.com/in/delice-lydia-91b55b167/)
-- ⚡ Fun fact: I Love Discovering New Things 😎
+- ⚡ Fun fact: Positive vibes only 😎
