@@ -2,10 +2,7 @@
 
 I'm a FullStack Web Developer!
 
--[Linkedin](https://www.linkedin.com/in/delice-lydia/)
-
-
--[Twitter](https://twitter.com/IngabireLydia3)>
+[Linkedin](https://www.linkedin.com/in/delice-lydia/) [Twitter](https://twitter.com/IngabireLydia3)
 
 About me
 ```
