@@ -1,7 +1,9 @@
-### Hi there I am Delice Lydia 👋
+### Hi there I am Lydia 👋
 
 I'm a FullStack Web Developer!
 
+lydia = {
+  }
 
 - 🔭 I’m currently working as a Freelance Developer
 - 🌱 I’m currently learning Ruby and Ruby on rails
