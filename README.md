@@ -1,7 +1,11 @@
 ### Hi there I am Lydia 👋
 
 I'm a FullStack Web Developer!
-<a href=”https://twitter.com/IngabireLydia3"><img src=”Twitter"></a>
+
+-[Linkedin](https://www.linkedin.com/in/delice-lydia/)
+
+
+-[Twitter](https://twitter.com/IngabireLydia3)>
 
 About me
 ```
@@ -15,4 +19,3 @@ About me
   }
 ```
 
-- Linkedin: [Delice Lydia](https://www.linkedin.com/in/delice-lydia/)
