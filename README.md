@@ -16,6 +16,8 @@ I'm a Full-Stack Web Developer!
   }
 ```
 
+## Stats
+
 ![Delice's github stats](https://github-readme-stats.vercel.app/api?username=DeliceLydia)
 
 
