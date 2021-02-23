@@ -1,10 +1,10 @@
-### Hi there I am Lydia 👋
+### Hello, I am Lydia 👋
 
 I'm a FullStack Web Developer!
 
-[Linkedin](https://www.linkedin.com/in/delice-lydia/)  [Twitter](https://twitter.com/IngabireLydia3)  [POrtfolio](https://delicelydia.github.io/my_portfolio/)
+[Linkedin](https://www.linkedin.com/in/delice-lydia/)  [Twitter](https://twitter.com/IngabireLydia3)  [Portfolio](https://delicelydia.github.io/my_portfolio/)
 
-About me
+## About Me
 ```
   const lydia = {
     names = ["Delice Lydia Ingabire"]
