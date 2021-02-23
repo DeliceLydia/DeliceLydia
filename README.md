@@ -1,7 +1,7 @@
 ### Hi there I am Lydia 👋
 
 I'm a FullStack Web Developer!
-<a href=”https://twitter.com/IngabireLydia3"><img src=”https://img.shields.io/twitter/follow/your_twitter_username_here?label=Follow&style=social"></a>
+<a href=”https://twitter.com/IngabireLydia3"><img src=”Twitter"></a>
 
 About me
 ```
