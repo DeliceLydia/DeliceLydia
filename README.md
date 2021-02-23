@@ -20,6 +20,6 @@ I'm a Full-Stack Web Developer!
 
 ![Delice's github stats](https://github-readme-stats.vercel.app/api?username=DeliceLydia)
 
-I am open to new opportunities, if you like what you see please[hit me up!😎]("")
+Open to new opportunities, if you like what you see please [hit me up!😎]("")
 
 
