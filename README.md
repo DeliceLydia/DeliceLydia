@@ -1,8 +1,15 @@
+![screenshot](./pass.jpeg)
+
+
 ### Hello, I am Lydia 👋
 
-I'm a Full-Stack Web Developer!
+I'm a Full-Stack Web Developer! I enjoy writing clean and expressive and I am always open to any feedback 
+which can help me to improve.
 
-[Linkedin](https://www.linkedin.com/in/delice-lydia/)  [Twitter](https://twitter.com/IngabireLydia3)  [Portfolio](https://delicelydia.github.io/my_portfolio/)
+## My Portfolio
+
+Click [here](https://delicelydia.github.io/my_portfolio/) to visit my portfolio
+
 
 ## About Me
 ```
@@ -15,6 +22,12 @@ I'm a Full-Stack Web Developer!
     fun fact: Only positive vibes😎
   }
 ```
+
+## Reach out
+
+- [Twitter](https://twitter.com/IngabireLydia3)
+- [Linkedin](https://www.linkedin.com/in/delice-lydia/) 
+- [DeliceLydia@outlook.com]
 
 ## Stats
 
