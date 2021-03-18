@@ -1,7 +1,7 @@
 ![screenshot](./pass.jpeg)
 
 
-### Hello, I am Lydia 👋
+# Hello, I am Lydia 👋
 
 I'm a Full-Stack Web Developer! I love programming and I enjoy writing clean and expressive code. it is always my pleasure to figure out where to improve.
 
