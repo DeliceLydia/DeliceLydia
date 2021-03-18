@@ -3,8 +3,7 @@
 
 ### Hello, I am Lydia 👋
 
-I'm a Full-Stack Web Developer! I enjoy writing clean and expressive and I am always open to any feedback 
-which can help me to improve.
+I'm a Full-Stack Web Developer! I love programming and I enjoy writing clean and expressive code. it is always my pleasure to figure out where to improve.
 
 ## My Portfolio
 
@@ -27,7 +26,7 @@ Click [here](https://delicelydia.github.io/my_portfolio/) to visit my portfolio
 
 - [Twitter](https://twitter.com/IngabireLydia3)
 - [Linkedin](https://www.linkedin.com/in/delice-lydia/) 
-- [DeliceLydia@outlook.com]
+- [DeliceLydia@outlook.com]("")
 
 ## Stats
 
