@@ -26,7 +26,7 @@ Click [here](https://delicelydia.github.io/my_portfolio/) to visit my portfolio
 
 - [Twitter](https://twitter.com/IngabireLydia3)
 - [Linkedin](https://www.linkedin.com/in/delice-lydia/) 
-- You can reach me on my email: deliceLydia@outlook.com
+- You can reach me on my email: Delydia84@gmail.com
 
 ## Stats
 
