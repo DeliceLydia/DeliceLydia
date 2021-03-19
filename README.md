@@ -1,7 +1,7 @@
 ![screenshot](./pass.jpeg)
 
 
-# Hello, I am Lydia 👋
+# Hello, i am Lydia 👋
 
 I'm a Full-Stack Web Developer who is open to new job Opportunities! I enjoy writing clean and expressive code. It is Always my pleasure to figure out where to improve.
 
@@ -15,7 +15,7 @@ Click [here](https://delicelydia.github.io/my_portfolio/) to visit my portfolio
   const lydia = {
     names = ["Delice Lydia Ingabire"]
     Human-languages = ["English", "French", "Kinyarwanda", "Swahili" ]
-    computer-languages = ["Javascript", "Html", "Css","Ruby"]
+    computer-languages = ["JavaScript", "HTML", "CSS","Ruby"]
     Frameworks = ["Ruby on Rails", Bootstrap, express]
     challenge: "Improving in algorithm and data structure"
     fun fact: Only positive vibes😎
