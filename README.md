@@ -3,7 +3,7 @@
 
 # Hello, i am Lydia 👋
 
-I'm a Full-Stack Web Developer who is open to new job Opportunities! I enjoy writing clean and expressive code. It is Always my pleasure to figure out where to improve.
+I'm a Full-Stack Web Developer who is open to new job Opportunities! I enjoy writing clean and expressive code. It is always my pleasure to figure out where to improve.
 
 ## My Portfolio
 
@@ -14,9 +14,9 @@ Click [here](https://delicelydia.github.io/my_portfolio/) to visit my portfolio
 ```
   const lydia = {
     names = ["Delice Lydia Ingabire"]
-    Human-languages = ["English", "French", "Kinyarwanda", "Swahili" ]
+    human-languages = ["English", "French", "Kinyarwanda", "Swahili" ]
     computer-languages = ["JavaScript", "HTML", "CSS","Ruby"]
-    Frameworks = ["Ruby on Rails", Bootstrap, express]
+    frameworks = ["Ruby on Rails", Bootstrap, express]
     challenge: "Improving in algorithm and data structure"
     fun fact: Only positive vibes😎
   }
