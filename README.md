@@ -3,7 +3,7 @@
 
 # Hello, i am Lydia 👋
 
-I'm a Full-Stack Web Developer who is open to new job Opportunities! I enjoy writing clean and expressive code. It is always my pleasure to figure out where to improve.
+I'm a Full-Stack Web Developer who is open to new job opportunities! I enjoy writing clean and expressive code. It is always my pleasure to figure out where to improve.
 
 ## My Portfolio
 
