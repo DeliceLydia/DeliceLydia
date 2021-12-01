@@ -17,7 +17,6 @@ Click [here](https://delicelydia.github.io/my_portfolio/) to visit my portfolio
     names = ["Lydia Ingabire"]
     human-languages = ["English", "French", "Kinyarwanda"]
     code-skills = ["JavaScript", "HTML&CSS", "React&Redux", "Ruby&Rails", "Bootstrap", "express",]
-    frameworks = ["Ruby on Rails", Bootstrap, express]
     favorite-quote = "No sweat no sweet"
     challenge: "Improving in algorithm and data structure"
     fun fact: "I know it might sound crazy, but I dream of living like a nomad😎"
