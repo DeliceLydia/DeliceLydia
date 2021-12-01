@@ -13,12 +13,14 @@ Click [here](https://delicelydia.github.io/my_portfolio/) to visit my portfolio
 ## About Me
 ```
   const lydia = {
-    names = ["Delice Lydia Ingabire"]
-    human-languages = ["English", "French", "Kinyarwanda", "Swahili" ]
-    computer-languages = ["JavaScript", "HTML", "CSS","Ruby"]
+    pronouns: ["She", "Her"],
+    names = ["Lydia Ingabire"]
+    human-languages = ["English", "French", "Kinyarwanda"]
+    code-skills = ["JavaScript", "HTML&CSS", "React&Redux", "Ruby&Rails", "Bootstrap", "express",]
     frameworks = ["Ruby on Rails", Bootstrap, express]
+    favorite-quote = "No sweat no sweet"
     challenge: "Improving in algorithm and data structure"
-    fun fact: Only positive vibes😎
+    fun fact: "I know it might sound crazy, but I dream of living like a nomad😎"
   }
 ```
 
@@ -28,9 +30,14 @@ Click [here](https://delicelydia.github.io/my_portfolio/) to visit my portfolio
 - [Linkedin](https://www.linkedin.com/in/delice-lydia/) 
 - You can reach me on my email: Delydia84@gmail.com
 
-## Stats
+## Lydia's Github Stats
 
-![Delice's github stats](https://github-readme-stats.vercel.app/api?username=DeliceLydia)
+![Lydia's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeliceLydia&theme=midnight-purple&show_icons=true)
+
+## Most Used Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeliceLydia&theme=midnight-purple)](https://github.com/DeliceLydia/github-readme-stats)
+
 
 Open to new opportunities, if you like what you see please [hit me up!😎]("")
 
