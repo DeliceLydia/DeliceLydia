@@ -14,7 +14,7 @@ Click [here](https://delicelydia.github.io/my_portfolio/) to visit my portfolio
 ```
   const lydia = {
     Pronouns: ["She", "Her"],
-    Names = ["Lydia Ingabire"]
+    Names = ["Lydia Delice Ingabire"]
     Human-languages = ["English", "French", "Kinyarwanda"]
     Code-skills = ["JavaScript", "HTML&CSS", "React&Redux", "Ruby&Rails", "Bootstrap", "express", "PostgreSQL", "NodeJS"]
     Motto = No sweat no sweet
