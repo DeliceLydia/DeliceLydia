@@ -1,4 +1,4 @@
-![screenshot](./pass.jpeg)
+![screenshot](./blessing.jpeg)
 
 
 # Hello, I am Lydia 👋
@@ -14,7 +14,7 @@ Click [here](https://delicelydia.github.io/my_portfolio/) to visit my portfolio
 ```
   const lydia = {
     Pronouns: [She/Her],
-    Names = [Lydia Delice Ingabire]
+    Names = [Lydia Ingabire]
     Human-languages = [English, French, Kinyarwanda]
     Code-skills = [HTML&CSS, React&Redux, Ruby&Rails, Bootstrap, PostgreSQL. JavaScript, NodeJS]
     Motto = No sweat no sweet
