@@ -13,15 +13,14 @@ Click [here](https://delicelydia.github.io/my_portfolio/) to visit my portfolio
 ## About Me
 ```
   const lydia = {
-    Pronouns: ["She", "Her"],
-    Names = ["Lydia Delice Ingabire"]
-    Human-languages = ["English", "French", "Kinyarwanda"]
-    Code-skills = ["JavaScript", "HTML&CSS", "React&Redux", "Ruby&Rails", "Bootstrap", "express", "PostgreSQL", "NodeJS"]
+    Pronouns: [She/Her],
+    Names = [Lydia Delice Ingabire]
+    Human-languages = [English, French, Kinyarwanda]
+    Code-skills = [HTML&CSS, React&Redux, Ruby&Rails, Bootstrap, PostgreSQL. JavaScript, NodeJS]
     Motto = No sweat no sweet
-    Favorite-quote1 = "We rise by lifting others"
-    Favorites-quote2 = "When life hands you lemons, make lemonade."
-    Challenge: "Improving in algorithm and data structure"
-    Fun fact: "I know it might sound crazy, but I dream of living like a nomad😎"
+    Fav-quote = "When life hands you lemons, make lemonade."
+    Challenge: Improving in algorithm and data structure
+    Fun fact: I know it might sound crazy, but I dream of living like a nomad😎
   }
 ```
 
