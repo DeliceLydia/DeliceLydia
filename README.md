@@ -1,4 +1,4 @@
-![screenshot](./blessing.jpeg)
+![screenshot](./bey.jpeg)
 
 
 # Hello, I am Lydia 👋
