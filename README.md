@@ -12,9 +12,9 @@ Click [here](https://lydia-portfolio.netlify.app/) to visit my portfolio
 
 ## About Me
 
-  - 😊 #### Pronouns: She/Her
+  - 😊 Pronouns: She/Her
   - ✨ Names: Lydia Ingabire
-  - 🧠 languages: English, French, Kinyarwanda
+  - 🧠 Languages: English, French, Kinyarwanda
   - 💻 Code-skills: HTML&CSS, React&Redux, Ruby&Rails, Bootstrap, PostgreSQL. JavaScript, NodeJS
   - ✍️ Motto: No sweat no sweet
   - 🤙 How to reach me: [Twitter](https://twitter.com/IngabireLydia3), [Linkedin](https://www.linkedin.com/in/delice-lydia/) 
