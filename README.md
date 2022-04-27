@@ -7,28 +7,20 @@ I'm a Full-Stack Web Developer who is open to new job opportunities! I enjoy wri
 
 ## My Portfolio
 
-Click [here](https://delicelydia.github.io/my_portfolio/) to visit my portfolio
+Click [here](https://lydia-portfolio.netlify.app/) to visit my portfolio
 
 
 ## About Me
-```
-  const lydia = {
-    Pronouns: [She/Her],
-    Names = [Lydia Ingabire]
-    Human-languages = [English, French, Kinyarwanda]
-    Code-skills = [HTML&CSS, React&Redux, Ruby&Rails, Bootstrap, PostgreSQL. JavaScript, NodeJS]
-    Motto = No sweat no sweet
-    Fav-quote = "When life hands you lemons, make lemonade."
-    Challenge: Improving in algorithm and data structure
-    Fun fact: I know it might sound crazy, but I dream of living like a nomad😎
-  }
-```
 
-## Reach out
-
-- [Twitter](https://twitter.com/IngabireLydia3)
-- [Linkedin](https://www.linkedin.com/in/delice-lydia/) 
-- You can reach me on my email: Delydia84@gmail.com
+  - 😊Pronouns: She/Her,
+  - ✨Names: Lydia Ingabire
+  - 🧠languages: English, French, Kinyarwanda
+  - 💻Code-skills: HTML&CSS, React&Redux, Ruby&Rails, Bootstrap, PostgreSQL. JavaScript, NodeJS
+  - ✍️Motto: No sweat no sweet
+  - 🤙How to reach me: [Twitter](https://twitter.com/IngabireLydia3), [Linkedin](https://www.linkedin.com/in/delice-lydia/) 
+  - 📢Fav-quote: "When life hands you lemons, make lemonade."
+  - 😐Challenge: Improving in algorithm and data structure
+  - ⛺Fun fact: I know it might sound crazy, but I dream of living like a nomad😎
 
 ## Lydia's Github Stats
 
