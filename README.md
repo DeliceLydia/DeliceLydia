@@ -9,9 +9,9 @@ I'm a Full-Stack Web Developer who is open to new job opportunities! I enjoy wri
 ## About Me
 
   - 😊 Pronouns: She/Her
-  - 💻 Code-skills: HTML&CSS, React&Redux, Ruby&Rails, Bootstrap, PostgreSQL. JavaScript, NodeJS
+  - 💻 Code-skills: Ruby&Rails, React&Redux, HTML&CSS, JavaScript, NodeJS, PostgreSQL, Rspec, Jest
+   - 🤙 How to reach me: [Twitter](https://twitter.com/IngabireLydia3), [Linkedin](https://www.linkedin.com/in/delice-lydia/) 
   - ✍️ Motto: No sweat no sweet
-  - 🤙 How to reach me: [Twitter](https://twitter.com/IngabireLydia3), [Linkedin](https://www.linkedin.com/in/delice-lydia/) 
   - 📢 Fav-quote: "When life hands you lemons, make lemonade."
   - ⛺ Fun fact: I know it might sound crazy, but I dream of living like a nomad😎
 
