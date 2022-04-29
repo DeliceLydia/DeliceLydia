@@ -1,7 +1,7 @@
 ![screenshot](./bey.jpeg)
 
 
-# Hello, I am Lydia 👋
+# Hello, I am Lydia Ingabire👋
 
 I'm a Full-Stack Web Developer who is open to new job opportunities! I enjoy writing clean and expressive code. It is always my pleasure to figure out where to improve.
 
