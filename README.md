@@ -12,7 +12,7 @@ I'm a Full-Stack Web Developer who is open to new job opportunities! I enjoy wri
   - 💻 Code-skills: Ruby&Rails, React&Redux, JavaScript, NodeJS, PostgreSQL
    - 🤙 How to reach me: [Twitter](https://twitter.com/IngabireLydia3), [Linkedin](https://www.linkedin.com/in/delice-lydia/) 
   - ✍️ Motto: No sweat no sweet
-  - ⛺ Fun fact: I know it might sound crazy, but I dream of living like a nomad😎
+  - ⛺ Fun fact: I dream of living like a nomad😎
 
 ## Lydia's Github Stats
 
