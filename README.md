@@ -9,7 +9,7 @@ I'm a Full-Stack Web Developer who is open to new job opportunities! I enjoy wri
 ## About Me
 
   - 😊 Pronouns: She/Her
-  - 💻 Code-skills: Ruby&Rails, React&Redux, NodeJS, ReactNative
+  - 💻 Code-skills: NodeJS, React&Redux, ReactNative, Ruby&Rails
    - 🤙 How to reach me: [Twitter](https://twitter.com/IngabireLydia3), [Linkedin](https://www.linkedin.com/in/delice-lydia/) 
   - ✍️ Motto: No sweat no sweet
   - ⛺ Fun fact: Nomadic lifestyle is my dream😎
